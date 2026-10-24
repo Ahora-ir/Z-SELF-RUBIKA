@@ -6,13 +6,13 @@ Installation on Termux
 
 ⚡️1. Update packages
 
-1️⃣`pkg update -y && pkg upgrade -y`
-2️⃣`pkg install python git -y`
-3️⃣`git clone https://github.com/Ahora-ir/Z-SELF-RUBIKA.git`
-4️⃣`cd Z-SELF-RUBIKA`
-5️⃣`python -m pip install --upgrade pip`
-6️⃣`pip install pyrubi`
-7️⃣`python Z_SELF_RUBIKA.py`
+- `pkg update -y && pkg upgrade -y`
+- `pkg install python git -y`
+- `git clone https://github.com/Ahora-ir/Z-SELF-RUBIKA.git`
+- `cd Z-SELF-RUBIKA`
+- `python -m pip install --upgrade pip`
+- `pip install pyrubi`
+- `python Z_SELF_RUBIKA.py`
 
 Features
 
