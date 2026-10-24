@@ -6,8 +6,8 @@ Installation on Termux
 
 ⚡️1. Update packages
 
-- `pkg update -y && pkg upgrade -y`
-- `pkg install python git -y`
+- ``pkg update -y && pkg upgrade -y``
+- ```pkg install python git -y```
 - `git clone https://github.com/Ahora-ir/Z-SELF-RUBIKA.git`
 - `cd Z-SELF-RUBIKA`
 - `python -m pip install --upgrade pip`
