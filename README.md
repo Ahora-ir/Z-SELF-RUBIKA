@@ -1,4 +1,4 @@
-Z - SELF RUBIKA
+#Z - SELF RUBIKA
 
 A Python-based Rubika selfbot using "pyrubi".
 
@@ -6,42 +6,14 @@ Installation on Termux
 
 ⚡️1. Update packages
 
-`pkg update -y && pkg upgrade -y`
-.
-.
-.
-⚡️2. Install required packages
+1️⃣`pkg update -y && pkg upgrade -y`
+2️⃣`pkg install python git -y`
+3️⃣`git clone https://github.com/Ahora-ir/Z-SELF-RUBIKA.git`
+4️⃣`cd Z-SELF-RUBIKA`
+5️⃣`python -m pip install --upgrade pip`
+6️⃣`pip install pyrubi`
+7️⃣`python Z_SELF_RUBIKA.py`
 
-`pkg install python git -y`
-.
-.
-.
-⚡️3. Clone the repository
-
-`git clone https://github.com/Ahora-ir/Z-SELF-RUBIKA.git`
-.
-.
-.
-⚡️4. Enter the project folder
-
-`cd Z-SELF-RUBIKA`
-.
-.
-.
-⚡️5. Install Python requirements
-
-`python -m pip install --upgrade pip`
-
-`pip install pyrubi`
-.
-.
-.
-⚡️6. Run the selfbot
-
-`python Z_SELF_RUBIKA.py`
-.
-.
-.
 Features
 
 - Timer with 5 clock font styles
